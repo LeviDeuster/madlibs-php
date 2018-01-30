@@ -16,6 +16,7 @@ $bezigheid = $_GET["bezigheid"];
     <link rel="stylesheet" type="text/css" href="CSS.css">
 </head>
 <body>
+    <div class="story-container">
     <h1>
         Er heerst paniek...
     </h1>
@@ -32,6 +33,8 @@ $bezigheid = $_GET["bezigheid"];
         $docent, je hebt helemaal gelijk! Wat zou ik doen als ik jou niet had.<br>
         $vervelen, Sire";
     ?>
+
+    </div>
 </body>
 </html>
 

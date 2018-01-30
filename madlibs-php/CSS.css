@@ -1,0 +1,28 @@
+body{
+    background-color: red;
+    text-align: center;
+}
+
+a{
+    color: white;
+}
+
+.link-container{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+}
+
+.form-container{
+    background-color: white;
+    color: black;
+    margin: 15% auto;
+    padding: 100px 100px 100px 100px;
+}
+
+.story-container{
+    background-color: white;
+    color: black;
+    margin: 12.5% auto;
+    padding: 100px 100px 100px 100px;
+}

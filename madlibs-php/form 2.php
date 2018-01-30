@@ -15,6 +15,7 @@ $ergste = $_GET["ergste"];
     <link rel="stylesheet" type="text/css" href="CSS.css">
 </head>
 <body>
+    <div class="story-container">
     <h1>
         Onkunde
     </h1>
@@ -27,5 +28,7 @@ $ergste = $_GET["ergste"];
         Te veel $slechtste leidt tot $ergste en dat is niet goed als je wilt $hebben.
         Helaas voor $persoon";
     ?>
+
+    </div>
 </body>
 </html>
