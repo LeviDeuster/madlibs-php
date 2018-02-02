@@ -13,7 +13,7 @@
         <a href="Paniek.php">Paniek</a>
     </div>
     <div class="form-container">
-    <form action="form 2.php">
+    <form action="form 2.php" method="post">
         Wat zou je graag willen kunnen?                       <input type="text" name="hebben"><br>
         Met welke persoon kun je goed opschieten?             <input type="text" name="persoon"><br>
         Wat is je favoriete getal?                            <input type="text" name="getal"><br>
