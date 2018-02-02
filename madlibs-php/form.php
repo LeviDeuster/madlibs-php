@@ -1,12 +1,12 @@
 <?php
-$dier = $_GET["dier"];
-$persoon = $_GET["persoon"];
-$land = $_GET["land"];
-$vervelen = $_GET["vervelen"];
-$speelgoed = $_GET["speelgoed"];
-$docent = $_GET["docent"];
-$geld = $_GET["geld"];
-$bezigheid = $_GET["bezigheid"];
+$dier = $_POST["dier"];
+$persoon = $_POST["persoon"];
+$land = $_POST["land"];
+$vervelen = $_POST["vervelen"];
+$speelgoed = $_POST["speelgoed"];
+$docent = $_POST["docent"];
+$geld = $_POST["geld"];
+$bezigheid = $_POST["bezigheid"];
 ?>
 <!DOCTYPE html>
 <html lang="en">
