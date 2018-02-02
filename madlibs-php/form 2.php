@@ -1,11 +1,11 @@
 <?php
-$hebben = $_GET["hebben"];
-$persoon = $_GET["persoon"];
-$getal = $_GET["getal"];
-$vakantie = $_GET["vakantie"];
-$beste = $_GET["beste"];
-$slechtste = $_GET["slechtste"];
-$ergste = $_GET["ergste"];
+$hebben = $_POST["hebben"];
+$persoon = $_POST["persoon"];
+$getal = $_POST["getal"];
+$vakantie = $_POST["vakantie"];
+$beste = $_POST["beste"];
+$slechtste = $_POST["slechtste"];
+$ergste = $_POST["ergste"];
 ?>
 <!DOCTYPE html>
 <html lang="en">
